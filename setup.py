@@ -21,3 +21,5 @@ setup(name='End To End Machine Learning Project',
       packages = find_packages(),
       install_requires = get_requirements('requirements.txt')
      )
+
+find_packages()
